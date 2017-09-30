@@ -1,3 +1,5 @@
 # Submissions
 
-Please create a folder with your team name. Inside that folder, place your analysis.
+Group Mermelada
+
+https://docs.google.com/presentation/d/1vjt1Gri27OcfMWtcndILoe9PdF8dU7MBvYdTjBybdZ0/edit?usp=sharing
