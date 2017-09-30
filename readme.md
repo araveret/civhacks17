@@ -15,7 +15,7 @@ There are multiple projects you can work on to prove your data skill and make an
 > This dataset provides health insurance coverage data for each state and the nation as a whole, including variables such as the uninsured rates before and after Obamacare, estimates of individuals covered by employer and marketplace healthcare plans, and enrollment in Medicare and Medicaid programs.
 > How has the Affordable Care Act changed the rate of citizens with health insurance coverage? Which states observed the greatest decline in their uninsured rate? Did those states expand Medicaid program coverage and/or implement a health insurance marketplace? What do you predict will happen to the nationwide uninsured rate in the next five years?
 
-Data source [here](https://www.kaggle.com/hhs/health-insurance) and [here](https://www.kaggle.com/hhs/health-insurance-marketplace). (Note: this dataset is quite large: justifying a 10% sample is acceptable.)
+Data source [here](https://www.kaggle.com/hhs/health-insurance) and [here](https://www.kaggle.com/hhs/health-insurance-marketplace/data). (Note: this dataset is quite large: justifying a 10% sample is acceptable.)
 
 ### Campaign Spending Data
 
